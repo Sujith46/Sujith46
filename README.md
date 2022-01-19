@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/reachsujith" target="blank"><img src="https://img.shields.io/twitter/follow/reachsujith?logo=twitter&style=for-the-badge" alt="reachsujith" /></a> </p>
 
-- 🔭 I’m currently working on **impress.ai**
+- 🔭 I’m currently working at **impress.ai**
 
 - 🌱 I’m currently learning **Docker, Web performace**
 
