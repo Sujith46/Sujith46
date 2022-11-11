@@ -11,7 +11,7 @@
 
 - 📝 check out some of my cool articles on [https://medium.com/@sujith46](https://medium.com/@sujith46)
 
-- 💬 Ask me about **react, react native, gatsby**
+- 💬 Ask me about **react, nextjs, react native, gatsby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
