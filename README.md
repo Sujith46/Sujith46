@@ -6,10 +6,10 @@
 - 🔭 I’m currently working at **impress.ai**
 
 - 🌱 I’m currently learning **Docker, Web performace**
-
+<!-- 
 - 👨‍💻 All of my projects are available at [https://reachsujith.netlify.app/](https://reachsujith.netlify.app/)
 
-- 📝 check out some of my cool articles on [https://medium.com/@sujith46](https://medium.com/@sujith46)
+- 📝 check out some of my cool articles on [https://medium.com/@sujith46](https://medium.com/@sujith46) -->
 
 - 💬 Ask me about **react, nextjs, react native, gatsby**
 
